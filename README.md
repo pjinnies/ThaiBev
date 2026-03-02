@@ -1,3 +1,1 @@
-"# ThaiBev" 
-"# ThaiBev" 
-"# ThaiBev" 
+This test was build on Vue.js framework
